@@ -157,6 +157,7 @@ ignored:
     - /**/*.png
     - /**/*.ico
     - /xboot/test/**
+    - /xboot/code/**
 
 # Actuator
 management:

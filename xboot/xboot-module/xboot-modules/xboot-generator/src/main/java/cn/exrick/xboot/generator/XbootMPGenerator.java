@@ -55,7 +55,7 @@ public class XbootMPGenerator {
      * 生成模块路径
      * (文件自动生成至该模块下)
      */
-    private static final String module = "/xboot-modules/xboot-your";
+    private static final String module = "/xboot-modules/xboot-codehelp";
 
     /**
      * 实体类对应包

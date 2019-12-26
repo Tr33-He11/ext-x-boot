@@ -27,6 +27,7 @@ public class MyAccessDecisionManager implements AccessDecisionManager {
         if(configAttributes==null){
             return;
         }
+
         Iterator<ConfigAttribute> iterator = configAttributes.iterator();
         while (iterator.hasNext()){
             ConfigAttribute c = iterator.next();

@@ -31,7 +31,7 @@
         </dependency>
         <dependency>
             <groupId>cn.exrick</groupId>
-            <artifactId>xboot-your</artifactId>
+            <artifactId>xboot-codehelp</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 

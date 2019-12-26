@@ -16,7 +16,7 @@
         <module>xboot-quartz</module>
         <module>xboot-generator</module>
         <module>xboot-open</module>
-        <module>xboot-your</module>
+        <module>xboot-codehelp</module>
     </modules>
 
 
